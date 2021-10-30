@@ -1,7 +1,5 @@
 # Welcome to my Github !
 
-## Me
-
 Hello ! My name is Ayoub i'm currently a Fullstack Web Developer i'm graduated from Epitech since September 2021 !
 
 Here u'll can find some project i made during my scolarity or in my free time self learning
