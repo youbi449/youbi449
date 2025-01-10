@@ -1,13 +1,15 @@
-# Welcome to my Github !
+# Hello there! 👋
 
-Hello ! My name is Ayoub i'm currently a Fullstack Web Developer i'm graduated from Epitech since September 2021 !
+I'm Ayoub, a **Software Developer** with 4 years of experience, passionate about creating efficient and innovative solutions. 🚀  
 
-Here u'll can find some project i made during my scolarity or in my free time self learning
+This GitHub showcases **my personal projects**—a mix of tools, applications, and experiments that I develop during my free time to explore new technologies and sharpen my skills.  
 
-I'm essentially focus on javascript but since i left school i want to take a look every where in the big world of the programation like Python, C , C++, Java and also LUA
+## 🌐 Tech Stack  
+Over the years, I've worked with a variety of languages and frameworks:  
+- **Web Development:** JavaScript (Node.js, React, etc.)  
+- **Backend & Tools:** Python, Java, NodeJS, PHP
+- **Others:**  Lua, AHK
 
-
-**Feel free to contact me if you want to feedback**
-
-📧 ayoub.belkacemi44@gmail.com
-
+## 💬 Let's Connect!  
+Feel free to reach out if you have feedback, questions, or collaboration ideas:  
+📧 [ayoub.belkacemi44@gmail.com](mailto:ayoub.belkacemi44@gmail.com)
