@@ -11,6 +11,3 @@ I'm essentially focus on javascript but since i left school i want to take a loo
 
 📧 ayoub.belkacemi44@gmail.com
 
-🌐 [Website](https://www.ayoub-belkacemi.fr/fr)
-
-[My Linkedin](https://www.linkedin.com/in/ayoub-belkacemi/)
