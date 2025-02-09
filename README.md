@@ -10,3 +10,6 @@ Over the years, I've worked with a variety of languages and frameworks:
 - **Backend & Tools:** Python, Java, NodeJS, PHP
 - **Others:**  Lua, AHK
 
+💻 Check out my portfolio: ayoub-belkacemi.fr
+
+🚀 Always open to discussions and collaborations!
